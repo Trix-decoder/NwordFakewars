@@ -1,19 +1,10 @@
-local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/Trix-decoder/fix/main/Rayfield%20fix'))()
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 local Plr = game:GetService("Players").LocalPlayer
 local Plrs = game:GetService("Players")
 
-
-
-
-
-
-
-
-
-
 local Window = Rayfield:CreateWindow({
-	Name = "NiggerHub",
-	LoadingTitle = "Nigger.xyz",
+	Name = "MoonV2",
+	LoadingTitle = "MoonV2",
 	LoadingSubtitle = "By : ouz#0001, ゼノン#1497, XV#0461, Spring67#0138, Damc#7534",
 	ConfigurationSaving = {
 		Enabled = true,
